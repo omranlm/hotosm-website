@@ -1,4 +1,4 @@
----
+F---
 title: 'Our End-to-End Mapping Solution: Mapping exercise at CliGeos Summer School'
 date: 2024-05-06 20:45:00 Z
 tags:
@@ -142,7 +142,7 @@ The area for our exercise was the beautiful, diverse perimeter of the Agricultur
 
 <br>
 - HOT Tasking Manager (TM): [Product Page](/tech-suite/tasking-manager) - [website](tasks.hotosm.org) - [docs](https://hotosm.github.io/tasking-manager/)<br/>
-- HOT fAIr: [Product Page](/tech-suite/fair) - [website](https://fair-dev.hotosm.org/) - [docs](https://docs.hotosm.org/)
+- HOT fAIr: [Product Page](/tech-suite/fair) - [website](https://fair.hotosm.org/) - [docs](https://docs.hotosm.org/)
 <br>
 <br>
 
